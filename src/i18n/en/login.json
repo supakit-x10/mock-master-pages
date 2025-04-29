@@ -1,0 +1,11 @@
+{
+  "page": "Sign in",
+  "title": "Sign in to Ums",
+  "description": "Not your device? Use a private or incognito window to sign in.",
+  
+  
+  "username": "Email/User ID",
+  "password": "Password",
+  "submit": "Login",
+  "forgotPassword": "Forgot password?"
+}
